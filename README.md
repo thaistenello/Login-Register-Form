@@ -8,11 +8,7 @@ Login e Registro
 
 <h4 align="center">
     <a href="https://login-register-form-chi.vercel.app/"   
-        style="background:linear-gradient(
-        to right, 
-         #9068f79f 1%, 
-         #f163c4b2 60%, 
-         #ecb692 95%); 
+        style="background-color: #9068f79f;
         color: #fff; 
         padding: 10px 20px; 
         text-decoration: none; 
