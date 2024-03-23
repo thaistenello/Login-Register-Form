@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome</title>
+
+    <!-- =========== CSS =========== -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- =========== GOOGLEFONT =========== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+    
+    <!-- =========== BOXICONS =========== --> 
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <div class="main">
+
+        <div id="form-box">
+
+            <div id="button-box">
+                <div id="btn"></div>
+                <button type="button" id="toggle-login" onclick="login()">Log In</button>
+                <button type="button" id="toggle-register" onclick="register()">Register</button>
+            </div>
+
+            <div id="social-icons">
+                <i class='bx bxl-google'></i>
+                <i class='bx bxl-instagram'></i>
+                <i class='bx bxl-facebook' ></i>
+            </div>
+
+            <form class="input-group" id="Login">
+                <input type="text" id="User" placeholder="Username or email address" required>
+                <input type="password" id="Pass" placeholder="Password" required>
+
+                <a id="forgot" href="">Forgot password?</a>
+
+                <button type="submit" class="submit-btn" id="login-btn">Log in</button>
+            </form>
+
+            <form class="input-group" id="Register">
+                <input type="text" id="UserR" placeholder="Create your User Id" required>
+                <input type="email" id="Email" placeholder="Enter your email" required>
+                <input type="text" id="PassR" placeholder="Create a password" required>
+
+                <div id="terms-and-conditions">
+                    <input type="checkbox" id="check-box">
+                    <label for="check-box">I accept the <a href="">terms and conditions</a></label>
+                </div>
+                
+                <button type="submit" class="submit-btn" id="register-btn">Register</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    
+</body>
+</html>
