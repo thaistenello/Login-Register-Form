@@ -8,7 +8,7 @@ Login e Registro
 
 
 
-[![Visualize a Demonstração]([caminho_da_imagem](https://placehold.jp/20/9068f7/ffffff/300x50.png?text=Visualize%20a%20Demonstra%C3%A7%C3%A3o&css=%7B%22border-radius%22%3A%22%2030px%22%7D))]([link_da_url](https://login-register-form-chi.vercel.app/))
+[![Visualize a Demonstração](https://placehold.jp/20/9068f7/ffffff/300x50.png?text=Visualize%20a%20Demonstra%C3%A7%C3%A3o&css=%7B%22border-radius%22%3A%22%2030px%22%7D)](https://login-register-form-chi.vercel.app/)
 
 
 
