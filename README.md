@@ -6,12 +6,9 @@ Login e Registro
 
 ![preview-gif](https://github.com/thaistenello/Login-Register-Form/assets/131812228/1b9fced4-a7a8-44d2-a40b-7410d816849d)
 
-
-
-[![Visualize a Demonstração](https://placehold.jp/20/9068f7/ffffff/300x50.png?text=Visualize%20a%20Demonstra%C3%A7%C3%A3o&css=%7B%22border-radius%22%3A%22%2030px%22%7D)](https://login-register-form-chi.vercel.app/)
-
-
-
+<div style="text-align:center;">
+    [![Visualize a Demonstração](https://placehold.jp/20/9068f7/ffffff/300x50.png?text=Visualize%20a%20Demonstra%C3%A7%C3%A3o&css=%7B%22border-radius%22%3A%22%2030px%22%7D)](https://login-register-form-chi.vercel.app/)
+</div>
 
 
 <h2>Sobre o projeto</h2>
@@ -58,23 +55,10 @@ Login and Register
 
 ![preview-gif](https://github.com/thaistenello/Login-Register-Form/assets/131812228/1b9fced4-a7a8-44d2-a40b-7410d816849d)
 
-<h4 align="center">
-    <a href="https://login-register-form-chi.vercel.app/"   
-        style="background:linear-gradient(
-        to right, 
-         #9068f79f 1%, 
-         #f163c4b2 60%, 
-         #ecb692 95%); 
-        color: #fff; 
-        padding: 10px 20px; 
-        text-decoration: none; 
-        border-radius: 15px;
-        display: inline-block;
-        margin-top: 10px; 
-        margin-bottom: 30px;">
-        View the Demo
-    </a> 
-</h4>
+[![Visualize a Demonstração](https://placehold.jp/20/9068f7/ffffff/300x50.png?text=View%20the%20Demo&css=%7B%22border-radius%22%3A%22%2030px%22%7D
+)](https://login-register-form-chi.vercel.app/)
+
+
 
 <h2>About</h2>
 
