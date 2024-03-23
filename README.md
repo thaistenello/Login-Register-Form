@@ -13,6 +13,7 @@ Login e Registro
 
 
 
+
 <h2>Sobre o projeto</h2>
 
 <p>Página de Login e Registro. Esta página faz parte do meu portfólio, demonstrando habilidades em design e desenvolvimento web.</p>
