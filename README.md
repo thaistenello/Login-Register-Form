@@ -13,8 +13,8 @@ Login e Registro
         padding: 10px 20px; 
         text-decoration: none; 
         border-radius: 15px;
-        border: none; /* Removendo a borda padrão do botão */
-        cursor: pointer; /* Alterando o cursor ao passar por cima do botão */
+        border: none; 
+        cursor: pointer; 
         display: inline-block;
         margin-top: 10px; 
         margin-bottom: 30px;">
