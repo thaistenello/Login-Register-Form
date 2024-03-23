@@ -6,9 +6,9 @@ Login e Registro
 
 ![preview-gif](https://github.com/thaistenello/Login-Register-Form/assets/131812228/1b9fced4-a7a8-44d2-a40b-7410d816849d)
 
-<center>
+
     [![Visualize a Demonstração](https://placehold.jp/20/9068f7/ffffff/300x50.png?text=Visualize%20a%20Demonstra%C3%A7%C3%A3o&css=%7B%22border-radius%22%3A%22%2030px%22%7D)](https://login-register-form-chi.vercel.app/)
-</center>
+
 
 <h2>Sobre o projeto</h2>
 
