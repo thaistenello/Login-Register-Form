@@ -6,7 +6,7 @@ Login e Registro
 
 ![preview-gif](https://github.com/thaistenello/Login-Register-Form/assets/131812228/1b9fced4-a7a8-44d2-a40b-7410d816849d)
 
-[Visualize a Demonstração](https://login-register-form-chi.vercel.app/){: style="background-color: #9068f7; color: #fff; padding: 10px 20px; text-decoration: none; border-radius: 15px; border: none; cursor: pointer; display: inline-block; margin-top: 10px; margin-bottom: 30px;"}
+[Visualize a Demonstração](https://login-register-form-chi.vercel.app/)
 
 
 
