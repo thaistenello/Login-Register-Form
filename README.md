@@ -53,7 +53,7 @@ Login and Register
 
 ![preview-gif](https://github.com/thaistenello/Login-Register-Form/assets/131812228/1b9fced4-a7a8-44d2-a40b-7410d816849d)
 
-[![Visualize a Demonstração]([https://placehold.jp/20/9068f7/ffffff/300x50.png?text=View%20the%20Demo&css=%7B%22border-radius%22%3A%22%2030px%22%7D](https://placehold.jp/20/9068f7/ffffff/300x50.png?text=View%20the%20Demo%0A)](https://login-register-form-chi.vercel.app/)
+[![]([https://placehold.jp/20/9068f7/ffffff/300x50.png?text=View%20the%20Demo&css=%7B%22border-radius%22%3A%22%2030px%22%7D](https://placehold.jp/20/9068f7/ffffff/300x50.png?text=View%20the%20Demo%))](https://login-register-form-chi.vercel.app/)
 
 
 
